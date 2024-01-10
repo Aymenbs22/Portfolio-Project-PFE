@@ -20,12 +20,12 @@ about the barber you can make an appointment and you can buy cosmetics products.
     - Change the current working directory to the location where you want to clone the repository.
     - Run the following command:
       ```
-      git clone https://github.com/Aymenbs22/BARBER_TN
+      git clone https://github.com/Aymenbs22/Portfolio-Project-PFE
       ```
 -  **Run the Project**:
     - After cloning the repository, change the directory to the project folder:
       ```
-      cd BARBER_TN
+      cd Portfolio-Project-PFE
       ```
     - Ensure you have all the dependencies by running:
       ```
