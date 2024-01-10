@@ -44,9 +44,11 @@ about the barber you can make an appointment and you can buy cosmetics products.
 ## User Examples
 
 * **Home Page:**
+  
 ![Logo](https://i.imgur.com/4Cd5fQH_d.webp)
 
 * **Login:**
+  
 ![Logo](https://i.imgur.com/8BXV9cO_d.webp)
 
 * **Register:**
