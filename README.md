@@ -52,39 +52,50 @@ about the barber you can make an appointment and you can buy cosmetics products.
 ![Logo](https://i.imgur.com/8BXV9cO_d.webp)
 
 * **Register:**
+  
 ![Logo](https://i.imgur.com/P6m73vw_d.webp)
 
 * **Make An Appointement:**
+  
 ![Logo](https://i.imgur.com/vUDi7lK_d.webp)
 
 * **Checkout Page:**
+  
 ![Logo](https://i.imgur.com/0hl1S1n_d.webp)
 
 * **My Orders:**
+  
 ![Logo](https://i.imgur.com/8davx6X_d.webp)
 
 * **Edit Your Profile:**
+  
 ![Logo](https://i.imgur.com/As4PvOu_d.webp)
 
 
 ## Admin Examples
 
 * **Admin Dashboard:**
+  
 ![Logo](https://i.imgur.com/kXnvY9S_d.webp)
 
 * **Appointement Page:**
+  
 ![Logo](https://i.imgur.com/CJ89XRl_d.webp)
 
 * **Reserved Products:**
+  
 ![Logo](https://i.imgur.com/xz6rgUi_d.webp)
 
 * **Add Products:**
+  
 ![Logo](https://i.imgur.com/kpx0ZkE_d.webp)
 
 * **Edit Products:**
+  
 ![Logo](https://i.imgur.com/eKoMJqL_d.webp)
 
 * **Remove Products:**
+  
 ![Logo](https://i.imgur.com/lSwOYzs_d.webp)
 
 
